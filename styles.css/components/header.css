@@ -17,6 +17,9 @@
     display: block;
 }
 
+.hero__container {
+    color: var(--clr-slate600);
+}
 /* xs */
 /* @media (min-width: 475px) {} */
 /* sm */
