@@ -9,3 +9,7 @@ import '../styles.css/components/contact.css'
 import '../styles.css/components/footer.css'
 import '../styles.css/components/mobile-nav.css'
 import '../styles.css/utils.css'
+
+import mobileNav from './utils/mobile-nav'
+
+mobileNav();
