@@ -11,5 +11,7 @@ import '../styles.css/components/mobile-nav.css'
 import '../styles.css/utils.css'
 
 import mobileNav from './utils/mobile-nav'
+import darkMode from './utils/dark-theme'
 
 mobileNav();
+darkMode();

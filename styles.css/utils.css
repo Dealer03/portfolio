@@ -11,13 +11,21 @@
 /* 2xL */
 /* @media (min-width: 1536px) {}  */
 
+.light-mode {
+    --clr-light: #000005;
+    --clr-dark: #f8fafc;
+    --clr-slate400: #1e293b;
+    --clr-slate600: #1e293b;
+    --clr-slate800: #1e293b;
+}
+
 .btn {
     display: inline-block;
     font-weight: 600;
     text-decoration: none;
     letter-spacing: 0.1em;
     background-color: var(--clr-rose);
-    color: var(--clr-light);
+    color:#f8fafc;
     padding: 0.5em 1em;
     border-radius: 6px;
     box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 
