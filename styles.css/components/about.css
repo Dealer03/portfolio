@@ -39,7 +39,6 @@
     flex-direction: column;
     gap: 1em;
     list-style-type: '\2705';
-    padding-left: 1em;
     flex: 1;
 }
 
